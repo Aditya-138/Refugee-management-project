@@ -3,10 +3,16 @@ The Disaster Management & Refugee Camp System is a sophisticated full-stack web 
 
 🌍 Real-World ContextIn the aftermath of natural disasters, conflicts, or humanitarian crises, managing large-scale refugee movements becomes a critical challenge. Traditional paper-based or manual digital systems often fail to:
 
-Quickly match refugees with appropriate camps
-Track real-time capacity and resource availability
-Optimize the distribution of camps across geographical regions
-Plan efficient evacuation routes during emergencies
-Provide data-driven insights for decision-makers
+Quickly match refugees with appropriate camps.
+
+Track real-time capacity and resource availability.
+
+Optimize the distribution of camps across geographical regions.
+
+Plan efficient evacuation routes during emergencies.
+
+Provide data-driven insights for decision-makers.
+
 This project addresses these challenges by creating an intelligent, automated system that brings order to chaos during critical moments.
+
 
